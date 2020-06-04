@@ -1,6 +1,9 @@
 ### Javascipt Inheritance
 ___
 
+##### Description : This tutorial explains Javascript inheritance where Teacher wants to inherit the properties of a Person. Please find the complete code at EOF. 
+___
+
 ```
 function Person(name) {
   this.name = name;
