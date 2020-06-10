@@ -1,1 +1,1 @@
-#### This repository is basically used for Front-end developer Interview Preparation
+#### This repository will be helpful to JavaScript Developer Interview Preparation
